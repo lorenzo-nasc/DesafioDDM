@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Desafio - DDM</string>
+    <string name="title_login">Catálogo de Filmes</string>
+    <string name="hint_usuario">Usuário</string>
+    <string name="hint_senha">Senha</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="erro_login">Usuário ou senha inválidos</string>
+    <string name="hint_titulo">Título do Filme</string>
+    <string name="hint_genero">Gênero</string>
+    <string name="hint_poster_url">URL do Poster</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="link_ver_lista">Ver lista</string>
+    <string name="erro_campos_obrigatorios">Preencha todos os campos</string>
+    <string name="filme_salvo">Filme salvo com sucesso</string>
+    <string name="title_lista">Lista de Filmes</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="lista_vazia">Nenhum filme cadastrado</string>
+    <string name="voltar">Voltar</string>
+    <string name="btn_atualizar">Atualizar</string>
+    <string name="filme_atualizado">Filme atualizado com sucesso</string>
+</resources>
